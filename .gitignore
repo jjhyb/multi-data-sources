@@ -1,0 +1,4 @@
+# Project exclude paths
+/dynamic-data-source/target/
+/jta-transaction/target/
+/multi-source/target/
